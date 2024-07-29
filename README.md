@@ -1,4 +1,4 @@
-<img width="826" alt="image" src="https://github.com/user-attachments/assets/012719a2-97e6-4fdd-9309-37d032ebe110"># Car_Rental_System_BSD_214OOP
+Car_Rental_System_Java_Assignment2
 A car rental system to reinforce OOP concepts and refine programming skills.
 Design Classes for entities such as Car, Customer, Rental Agency.
 Encapsulate data and behaviors for modular system.
